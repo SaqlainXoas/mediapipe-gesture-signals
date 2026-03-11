@@ -8,11 +8,11 @@
     }
   </style>
 
-  <rect x="24" y="30" width="732" height="180" rx="30" fill="#F8FBFF" stroke="#DBEAFE" stroke-width="2"/>
+  <rect x="24" y="30" width="732" height="180" rx="30" fill="none" stroke="#4338CA" stroke-width="1.5"/>
 
-  <rect x="48" y="65" width="196" height="110" rx="24" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
-  <text x="146" y="92" fill="#0F172A" font-size="17" font-weight="700" text-anchor="middle">raw landmarks</text>
-  <text x="146" y="112" fill="#64748B" font-size="12.5" text-anchor="middle">frame-by-frame points</text>
+  <rect x="48" y="65" width="196" height="110" rx="24" fill="none" stroke="#6366F1" stroke-width="2"/>
+  <text x="146" y="92" fill="#E2E8F0" font-size="17" font-weight="700" text-anchor="middle">raw landmarks</text>
+  <text x="146" y="112" fill="#94A3B8" font-size="12.5" text-anchor="middle">frame-by-frame points</text>
   <circle cx="146" cy="145" r="25" stroke="#60A5FA" stroke-width="3"/>
   <circle cx="130" cy="132" r="4.2" fill="#38BDF8"/>
   <circle cx="146" cy="126" r="4.2" fill="#38BDF8"/>
@@ -24,8 +24,8 @@
   <path d="M134 150L146 158L158 150" stroke="#7DD3FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M130 132L134 150M162 132L158 150M146 126L146 158" stroke="#BFDBFE" stroke-width="1.7" stroke-linecap="round"/>
 
-  <path d="M252 120H286" stroke="#94A3B8" stroke-width="5" stroke-linecap="round"/>
-  <path d="M274 108L288 120L274 132" stroke="#94A3B8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M252 120H286" stroke="#6366F1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M274 108L288 120L274 132" stroke="#6366F1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 
   <rect x="292" y="65" width="196" height="110" rx="24" fill="#102042" stroke="#60A5FA" stroke-width="2.5"/>
   <text x="390" y="92" fill="#F8FAFC" font-size="17" font-weight="700" text-anchor="middle">detector logic</text>
@@ -35,13 +35,13 @@
   <rect x="334" y="151" width="112" height="19" rx="9.5" fill="#0F766E"/>
   <text x="390" y="164" fill="#CCFBF1" font-size="10.8" font-weight="700" text-anchor="middle">confirm + cooldown</text>
 
-  <path d="M496 120H530" stroke="#94A3B8" stroke-width="5" stroke-linecap="round"/>
-  <path d="M518 108L532 120L518 132" stroke="#94A3B8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M496 120H530" stroke="#6366F1" stroke-width="5" stroke-linecap="round"/>
+  <path d="M518 108L532 120L518 132" stroke="#6366F1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 
-  <rect x="536" y="65" width="196" height="110" rx="24" fill="#FFFFFF" stroke="#BFDBFE" stroke-width="2"/>
-  <text x="634" y="92" fill="#0F172A" font-size="17" font-weight="700" text-anchor="middle">stable event</text>
-  <text x="634" y="112" fill="#64748B" font-size="12.5" text-anchor="middle">one clean signal out</text>
+  <rect x="536" y="65" width="196" height="110" rx="24" fill="none" stroke="#6366F1" stroke-width="2"/>
+  <text x="634" y="92" fill="#E2E8F0" font-size="17" font-weight="700" text-anchor="middle">stable event</text>
+  <text x="634" y="112" fill="#94A3B8" font-size="12.5" text-anchor="middle">one clean signal out</text>
   <rect x="577" y="126" width="114" height="32" rx="16" fill="#ECFDF5" stroke="#86EFAC" stroke-width="2"/>
   <circle cx="592" cy="142" r="6.5" fill="#22C55E"/>
-  <text class="mono" x="641" y="147" fill="#166534" font-size="13" text-anchor="middle">touch_nose</text>
+  <text class="mono" x="641" y="147" fill="#14532D" font-size="13" text-anchor="middle">touch_nose</text>
 </svg>
